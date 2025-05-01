@@ -1,0 +1,16 @@
+public class CommandLineArguements {
+    public static void main(String args[]){
+        int count,i=0;
+        String string;
+        count=args.length;
+        System.out.println("Number of arguements = "+count);
+        while(i<count){
+            string=args[i];
+            i=i+1;
+            System.out.println(i+ " : "+ " Java is "+string+ " ! ");
+        }
+    }
+}
+
+
+//java CommandLineArguements Simple Object_Oriented Distributed Robust Secure Portable Multithreaded Dynamic use this in terminal.
