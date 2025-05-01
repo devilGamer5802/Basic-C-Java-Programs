@@ -11,10 +11,10 @@
   <!-- Badges/Icons using Shields.io -->
   <!-- Replace YourUsername/YourRepoName with your actual GitHub username and repository name -->
   <img src="https://img.shields.io/badge/Language-C%20%26%20Java-blue?style=for-the-badge" alt="Languages: C & Java"/>
-  <img src="https://img.shields.io/github/license/YourUsername/YourRepoName?style=for-the-badge" alt="License"/>
+  <img src="https://img.shields.io/github/license/devilGamer5802/Basic-C-Java-Programs?style=for-the-badge" alt="License"/>
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge" alt="Contributions Welcome"/>
-  <img src="https://img.shields.io/github/contributors/YourUsername/YourRepoName?style=for-the-badge" alt="Contributors"/>
-  <img src="https://img.shields.io/github/last-commit/YourUsername/YourRepoName?style=for-the-badge" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/contributors/devilGamer5802/Basic-C-Java-Programs?style=for-the-badge" alt="Contributors"/>
+  <img src="https://img.shields.io/github/last-commit/devilGamer5802/Basic-C-Java-Programs?style=for-the-badge" alt="Last Commit"/>
 </p>
 
 ---
@@ -144,7 +144,7 @@ We welcome contributions such as:
 This project is distributed under the **[Choose Your License, e.g., MIT License]**. See the `LICENSE` file (you should create this file in your repository!) for more information.
 
 <!-- Replace YourUsername/YourRepoName and update the license type if needed -->
-[![License: MIT](https://img.shields.io/github/license/YourUsername/YourRepoName?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/github/license/devilGamer5802/Basic-C-Java-Programs?style=flat-square)](LICENSE)
 
 ---
 
